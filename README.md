@@ -1,4 +1,5 @@
-# pieceofmind
+# Casefile
+
 Anonymous employee feedback, AI-drafted SMART-goal suggestions, and
 role-scoped stakeholder dashboards — a standalone Streamlit app.
 
